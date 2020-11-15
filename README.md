@@ -1,2 +1,2 @@
-# greeklish_wordlist-gen
-A greeklish wordlist, including a generator implementation in Dart.
+# greeklish_wordlists
+A few Greeklish wordlists, including multiple variations.
